@@ -90,17 +90,17 @@ Technologies Used 🧑‍💻
 
  Project Structure
  -----------------------
- ├── Predictions.py            # Streamlit App
-├── cars_notebook.py          # Car model & logic
-├── house_notebook.py         # House model & logic
-├── laptop_notebook.py        # Laptop model & logic
-├── shoe_notebook.py          # Shoe model & logic
-├── pipeline_shoe.pkl         # Pre-trained shoe model
-├── pipe.pkl                  # Pre-trained laptop model
-├── car_model.pkl             # Pre-trained car model
-├── house_model.pkl           # Pre-trained house model
-├── requirements.txt
-└── README.md
+ *├── Predictions.py            # Streamlit App
+*├── cars_notebook.py          # Car model & logic
+*├── house_notebook.py         # House model & logic
+*├── laptop_notebook.py        # Laptop model & logic
+*├── shoe_notebook.py          # Shoe model & logic
+*├── pipeline_shoe.pkl         # Pre-trained shoe model
+*├── pipe.pkl                  # Pre-trained laptop model
+*├── car_model.pkl             # Pre-trained car model
+*├── house_model.pkl           # Pre-trained house model
+*├── requirements.txt
+*└── README.md
 
 
 Contributing 🤝
